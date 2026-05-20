@@ -1,0 +1,57 @@
+species1,species2,phi_coefficient,p_value,significant
+东北兔 Lepus mandshuricus,环颈雉 Phasianus colchicus,0.2610040958179845,0.026781130415753474,True
+东北兔 Lepus mandshuricus,紫貂 Martes zibellina,-0.3295017884191656,0.005175294762573168,True
+东北兔 Lepus mandshuricus,豹猫 Prionailurus bengalensis,0.2965909994776427,0.011847373877059031,True
+东北兔 Lepus mandshuricus,鸳鸯 Aix galericulata,0.24671758189758447,0.03630738861038996,True
+东北刺猬 Erinaceus amurensis,斑鸫 Turdus eunomus,0.2539166875385041,0.03119670973293387,True
+东北刺猬 Erinaceus amurensis,松鸦 Garrulus glandarius,0.25235730725761796,0.03224801902709984,True
+东北刺猬 Erinaceus amurensis,虎斑地鸫 Zoothera aurea,0.2566845136956067,0.029403034845887577,True
+东北刺猬 Erinaceus amurensis,豹猫 Prionailurus bengalensis,0.26643538496884184,0.023772932645315104,True
+东北刺猬 Erinaceus amurensis,长尾林鸮 Strix uralensis,0.301624673408895,0.010486200016097014,True
+东北虎 Panthera tigris altaica,黄喉貂 Martes flavigula,0.24415533430908473,0.03829093488506374,True
+亚洲狗獾 Meles leucurus,松鼠 Sciurus vulgaris,0.29880715233359845,0.011229886652916687,True
+北花松鼠 Tamias sibiricus,松鼠 Sciurus vulgaris,0.3575921250141394,0.002411186919389685,True
+北花松鼠 Tamias sibiricus,灰头绿啄木鸟 Picus canus,0.29697708110702653,0.011737680902690006,True
+北花松鼠 Tamias sibiricus,白眉地鸫 Geokichla sibirica,0.2523785366545485,0.03223350516599055,True
+北花松鼠 Tamias sibiricus,花尾榛鸡 Tetrastes bonasia,0.24029618753167464,0.04145194737415503,True
+北花松鼠 Tamias sibiricus,虎斑地鸫 Zoothera aurea,0.3701501546820385,0.0016847081903706984,True
+大嘴乌鸦 Corvus macrorhynchos,环颈雉 Phasianus colchicus,0.25012410028066373,0.033806396681867246,True
+小嘴乌鸦 Corvus corone,花尾榛鸡 Tetrastes bonasia,0.24671758189758447,0.03630738861038996,True
+山斑鸠 Streptopelia orientalis,黄鼬 Mustela sibirica,0.2527553506359416,0.03197681938671204,True
+斑鸫 Turdus eunomus,未知UN ,0.2729604168420058,0.02055030164647631,True
+斑鸫 Turdus eunomus,灰背鸫 Turdus hortulorum,0.464058426867722,8.227789875003833e-05,True
+斑鸫 Turdus eunomus,白眉地鸫 Geokichla sibirica,0.2729604168420058,0.02055030164647631,True
+斑鸫 Turdus eunomus,白背啄木鸟 Dendrocopos leucotos,0.4249670751074407,0.00031099480680640834,True
+斑鸫 Turdus eunomus,白腹鸫 Turdus pallidus,0.43706146852900135,0.00020841696234785712,True
+斑鸫 Turdus eunomus,花尾榛鸡 Tetrastes bonasia,0.23904572186687875,0.04252247799805153,True
+斑鸫 Turdus eunomus,虎斑地鸫 Zoothera aurea,0.3061862178478973,0.009374768459434857,True
+星鸦 Nucifraga caryocatactes,棕熊 Ursus arctos,0.530638852672751,6.712084192894707e-06,True
+星鸦 Nucifraga caryocatactes,白腹鸫 Turdus pallidus,0.23733537178633965,0.04402450621085252,True
+普通䴓 Sitta europaea,未知UN ,0.34045327482409776,0.0038666351083865846,True
+普通䴓 Sitta europaea,白眉地鸫 Geokichla sibirica,0.49365724849494175,2.8040788842775832e-05,True
+普通䴓 Sitta europaea,白腹鸫 Turdus pallidus,0.2340071757206818,0.04707589741358076,True
+普通䴓 Sitta europaea,花尾榛鸡 Tetrastes bonasia,0.28697202159177576,0.014890211481843663,True
+普通䴓 Sitta europaea,虎斑地鸫 Zoothera aurea,0.28005601680560194,0.017484674410521373,True
+未知UN ,沼泽山雀 Poecile palustris,0.27993192950341206,0.017534635714686497,True
+未知UN ,灰头绿啄木鸟 Picus canus,0.27993192950341206,0.017534635714686497,True
+未知UN ,白眉地鸫 Geokichla sibirica,0.5566502463054187,2.3200938306100483e-06,True
+未知UN ,红胁蓝尾鸲 Tarsiger cyanurus,0.27993192950341206,0.017534635714686497,True
+未知UN ,虎斑地鸫 Zoothera aurea,0.28365431446558775,0.016089161747640746,True
+松鸦 Garrulus glandarius,灰头绿啄木鸟 Picus canus,0.24433888871261047,0.03814583625955292,True
+松鼠 Sciurus vulgaris,白腹鸫 Turdus pallidus,0.2820380374088831,0.016703403847161513,True
+松鼠 Sciurus vulgaris,苍鹰 Accipiter gentilis,-0.23730263361180232,0.04405368822031841,True
+松鼠 Sciurus vulgaris,黑熊 Ursus thibetanus,0.2694977766525139,0.022209574686315348,True
+灰头绿啄木鸟 Picus canus,红胁蓝尾鸲 Tarsiger cyanurus,0.5701492537313433,1.3123341090492957e-06,True
+灰头绿啄木鸟 Picus canus,花尾榛鸡 Tetrastes bonasia,0.3232299675777271,0.006093684406574984,True
+灰背鸫 Turdus hortulorum,白腹鸫 Turdus pallidus,0.38876652634170233,0.0009710135954773547,True
+白眉地鸫 Geokichla sibirica,白腹鸫 Turdus pallidus,0.2835701003126249,0.01612066884939345,True
+白眉地鸫 Geokichla sibirica,花尾榛鸡 Tetrastes bonasia,0.2965909994776427,0.011847373877059031,True
+白眉地鸫 Geokichla sibirica,虎斑地鸫 Zoothera aurea,0.28365431446558775,0.016089161747640746,True
+白腹鸫 Turdus pallidus,花尾榛鸡 Tetrastes bonasia,0.3567530340063379,0.002468715225802387,True
+白腹鸫 Turdus pallidus,虎斑地鸫 Zoothera aurea,0.24370871833797697,0.03864594304240909,True
+红胁蓝尾鸲 Tarsiger cyanurus,花尾榛鸡 Tetrastes bonasia,0.3232299675777271,0.006093684406574984,True
+花尾榛鸡 Tetrastes bonasia,虎斑地鸫 Zoothera aurea,0.35783002674779546,0.0023951010516096716,True
+花尾榛鸡 Tetrastes bonasia,黑熊 Ursus thibetanus,0.4493559483386449,0.00013733921232428337,True
+苍鹰 Accipiter gentilis,貉 Nyctereutes procyonoides,0.2515636236161335,0.032794667887575235,True
+豹猫 Prionailurus bengalensis,貉 Nyctereutes procyonoides,0.43104000429527944,0.00025469151105728116,True
+野猪 Sus scrofa,马鹿 Cervus elaphus,0.2634593716954689,0.02538277767460706,True

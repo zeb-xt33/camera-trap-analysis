@@ -1,0 +1,442 @@
+species1,species2,phi_coefficient,p_value,significant
+东北兔 Lepus mandshuricus,东北刺猬 Erinaceus amurensis,0.12139539573337679,0.30297522686109934,False
+东北兔 Lepus mandshuricus,东北虎 Panthera tigris altaica,0.1159636554260548,0.325123259207022,False
+东北兔 Lepus mandshuricus,亚洲狗獾 Meles leucurus,0.22677868380553634,0.05431937812711485,False
+东北兔 Lepus mandshuricus,北花松鼠 Tamias sibiricus,-0.09894548898363074,0.4011437403284098,False
+东北兔 Lepus mandshuricus,大嘴乌鸦 Corvus macrorhynchos,0.10647942749998998,0.366256395824783,False
+东北兔 Lepus mandshuricus,山斑鸠 Streptopelia orientalis,0.04272345199907282,0.7169630985055419,False
+东北兔 Lepus mandshuricus,斑鸫 Turdus eunomus,0.05976143046671969,0.6120898800892567,False
+东北兔 Lepus mandshuricus,未知UN ,-0.1305000397701628,0.2681514698709936,False
+东北兔 Lepus mandshuricus,松鸦 Garrulus glandarius,-0.15118578920369088,0.19954324489433095,False
+东北兔 Lepus mandshuricus,松鼠 Sciurus vulgaris,0.045175395145262566,0.7014781088666138,False
+东北兔 Lepus mandshuricus,灰背鸫 Turdus hortulorum,0.032626818129118454,0.7818970280500606,False
+东北兔 Lepus mandshuricus,狍 Capreolus pygargus,0.0,1.0,False
+东北兔 Lepus mandshuricus,环颈雉 Phasianus colchicus,0.2610040958179845,0.026781130415753474,True
+东北兔 Lepus mandshuricus,白眉地鸫 Geokichla sibirica,-0.1305000397701628,0.2681514698709936,False
+东北兔 Lepus mandshuricus,白背啄木鸟 Dendrocopos leucotos,0.10158656123871423,0.3886927148007664,False
+东北兔 Lepus mandshuricus,白腹鸫 Turdus pallidus,-0.010192943828752512,0.9310769079746999,False
+东北兔 Lepus mandshuricus,紫貂 Martes zibellina,-0.3295017884191656,0.005175294762573168,True
+东北兔 Lepus mandshuricus,花尾榛鸡 Tetrastes bonasia,0.08571428571428572,0.46703617641572615,False
+东北兔 Lepus mandshuricus,苍鹰 Accipiter gentilis,-0.045677545380765835,0.6983218203368442,False
+东北兔 Lepus mandshuricus,虎斑地鸫 Zoothera aurea,-0.03253000243161777,0.7825279247400674,False
+东北兔 Lepus mandshuricus,豹猫 Prionailurus bengalensis,0.2965909994776427,0.011847373877059031,True
+东北兔 Lepus mandshuricus,貉 Nyctereutes procyonoides,0.19810721293758182,0.09276379950683722,False
+东北兔 Lepus mandshuricus,野猪 Sus scrofa,0.12005684510029864,0.3083377613855135,False
+东北兔 Lepus mandshuricus,长尾林鸮 Strix uralensis,0.022587697572631283,0.8480062142193098,False
+东北兔 Lepus mandshuricus,马鹿 Cervus elaphus,-0.0520265981714472,0.6588797785919911,False
+东北兔 Lepus mandshuricus,鸳鸯 Aix galericulata,0.24671758189758447,0.03630738861038996,True
+东北兔 Lepus mandshuricus,黄喉貂 Martes flavigula,0.21650726574685986,0.06619143405682038,False
+东北兔 Lepus mandshuricus,黄鼬 Mustela sibirica,0.0563436169819011,0.6325851216960415,False
+东北兔 Lepus mandshuricus,黑熊 Ursus thibetanus,0.07747516350666292,0.5109246760957852,False
+东北刺猬 Erinaceus amurensis,亚洲狗獾 Meles leucurus,0.13764944032233706,0.24280909147329188,False
+东北刺猬 Erinaceus amurensis,北花松鼠 Tamias sibiricus,0.07721695794343067,0.5123340921412701,False
+东北刺猬 Erinaceus amurensis,大嘴乌鸦 Corvus macrorhynchos,0.1163350101494222,0.3235763171447097,False
+东北刺猬 Erinaceus amurensis,山斑鸠 Streptopelia orientalis,0.11484238659873183,0.32982324561168275,False
+东北刺猬 Erinaceus amurensis,斑鸫 Turdus eunomus,0.2539166875385041,0.03119670973293387,True
+东北刺猬 Erinaceus amurensis,星鸦 Nucifraga caryocatactes,0.025932151812616867,0.825838752744592,False
+东北刺猬 Erinaceus amurensis,未知UN ,0.09361243255662009,0.42700460634581205,False
+东北刺猬 Erinaceus amurensis,松鸦 Garrulus glandarius,0.25235730725761796,0.03224801902709984,True
+东北刺猬 Erinaceus amurensis,松鼠 Sciurus vulgaris,0.10968169942141635,0.35201907626431894,False
+东北刺猬 Erinaceus amurensis,棕熊 Ursus arctos,0.025932151812616867,0.825838752744592,False
+东北刺猬 Erinaceus amurensis,狍 Capreolus pygargus,0.0,1.0,False
+东北刺猬 Erinaceus amurensis,环颈雉 Phasianus colchicus,0.08082830484657252,0.49280712905465673,False
+东北刺猬 Erinaceus amurensis,白眉地鸫 Geokichla sibirica,0.09361243255662009,0.42700460634581205,False
+东北刺猬 Erinaceus amurensis,白腹鸫 Turdus pallidus,0.030934411244487297,0.7929458650985228,False
+东北刺猬 Erinaceus amurensis,紫貂 Martes zibellina,0.010526315789473684,0.9288285922404711,False
+东北刺猬 Erinaceus amurensis,花尾榛鸡 Tetrastes bonasia,0.1907641932953064,0.1055144410380795,False
+东北刺猬 Erinaceus amurensis,虎斑地鸫 Zoothera aurea,0.2566845136956067,0.029403034845887577,True
+东北刺猬 Erinaceus amurensis,豹猫 Prionailurus bengalensis,0.26643538496884184,0.023772932645315104,True
+东北刺猬 Erinaceus amurensis,貉 Nyctereutes procyonoides,0.17796484599023626,0.1310225546948076,False
+东北刺猬 Erinaceus amurensis,野猪 Sus scrofa,0.005605518546712105,0.9620634028971643,False
+东北刺猬 Erinaceus amurensis,长尾林鸮 Strix uralensis,0.301624673408895,0.010486200016097014,True
+东北刺猬 Erinaceus amurensis,马鹿 Cervus elaphus,0.09473684210526316,0.42147277268510974,False
+东北刺猬 Erinaceus amurensis,黄喉貂 Martes flavigula,-0.08862867103840132,0.45202747842807267,False
+东北刺猬 Erinaceus amurensis,黄鼬 Mustela sibirica,-0.10259783520851541,0.38398816339805664,False
+东北刺猬 Erinaceus amurensis,黑熊 Ursus thibetanus,0.04702564066699709,0.6898741992888718,False
+东北虎 Panthera tigris altaica,亚洲狗獾 Meles leucurus,0.016147947019964574,0.8910150860267575,False
+东北虎 Panthera tigris altaica,北花松鼠 Tamias sibiricus,-0.06944838252120682,0.5556673779086578,False
+东北虎 Panthera tigris altaica,松鸦 Garrulus glandarius,-0.08881370860980516,0.45108385387047023,False
+东北虎 Panthera tigris altaica,松鼠 Sciurus vulgaris,-0.1833546384726384,0.11975192400551138,False
+东北虎 Panthera tigris altaica,狍 Capreolus pygargus,0.0,1.0,False
+东北虎 Panthera tigris altaica,环颈雉 Phasianus colchicus,0.21050349514893849,0.07406989384580576,False
+东北虎 Panthera tigris altaica,白腹鸫 Turdus pallidus,0.0021773887319847672,0.9852593181324395,False
+东北虎 Panthera tigris altaica,紫貂 Martes zibellina,0.15188831775961306,0.19746237044050075,False
+东北虎 Panthera tigris altaica,花尾榛鸡 Tetrastes bonasia,-0.17699715828187312,0.1331305073893505,False
+东北虎 Panthera tigris altaica,苍鹰 Accipiter gentilis,0.20211989324217133,0.08633712986101405,False
+东北虎 Panthera tigris altaica,豹猫 Prionailurus bengalensis,0.043082730520436346,0.7146866428496104,False
+东北虎 Panthera tigris altaica,野猪 Sus scrofa,-0.013809500004468888,0.9067194018807195,False
+东北虎 Panthera tigris altaica,马鹿 Cervus elaphus,0.15188831775961306,0.19746237044050075,False
+东北虎 Panthera tigris altaica,黄喉貂 Martes flavigula,0.24415533430908473,0.03829093488506374,True
+东北虎 Panthera tigris altaica,黄鼬 Mustela sibirica,0.18053953616852972,0.12554001464545306,False
+东北虎 Panthera tigris altaica,黑熊 Ursus thibetanus,0.01655003214598616,0.8883189292200108,False
+亚洲狗獾 Meles leucurus,北花松鼠 Tamias sibiricus,0.18698939800169143,0.11259020151579435,False
+亚洲狗獾 Meles leucurus,大嘴乌鸦 Corvus macrorhynchos,0.0563436169819011,0.6325851216960415,False
+亚洲狗獾 Meles leucurus,小嘴乌鸦 Corvus corone,0.09325048082403138,0.42879428738548975,False
+亚洲狗獾 Meles leucurus,山斑鸠 Streptopelia orientalis,0.11303562913975201,0.3374886658504135,False
+亚洲狗獾 Meles leucurus,斑鸫 Turdus eunomus,-0.07905694150420949,0.502334954360502,False
+亚洲狗獾 Meles leucurus,星鸦 Nucifraga caryocatactes,-0.1776274172196103,0.1317546303493855,False
+亚洲狗獾 Meles leucurus,普通䴓 Sitta europaea,0.10846522890932808,0.35738571603752656,False
+亚洲狗獾 Meles leucurus,未知UN ,0.12555296411486888,0.2867165663842487,False
+亚洲狗獾 Meles leucurus,松鸦 Garrulus glandarius,0.05,0.6713732405408726,False
+亚洲狗獾 Meles leucurus,松鼠 Sciurus vulgaris,0.29880715233359845,0.011229886652916687,True
+亚洲狗獾 Meles leucurus,棕熊 Ursus arctos,-0.08073973509982287,0.493281217525246,False
+亚洲狗獾 Meles leucurus,沼泽山雀 Poecile palustris,-0.024433888871261047,0.8357533786935177,False
+亚洲狗獾 Meles leucurus,灰头绿啄木鸟 Picus canus,0.12216944435630522,0.29990268016695854,False
+亚洲狗獾 Meles leucurus,灰背鸫 Turdus hortulorum,-0.01726448936819622,0.8835313866044099,False
+亚洲狗獾 Meles leucurus,狍 Capreolus pygargus,0.0,1.0,False
+亚洲狗獾 Meles leucurus,环颈雉 Phasianus colchicus,0.09865027552909438,0.4025502176772373,False
+亚洲狗獾 Meles leucurus,白眉地鸫 Geokichla sibirica,0.12555296411486888,0.2867165663842487,False
+亚洲狗獾 Meles leucurus,白背啄木鸟 Dendrocopos leucotos,-0.024433888871261047,0.8357533786935177,False
+亚洲狗獾 Meles leucurus,白腹鸫 Turdus pallidus,0.05393598899705937,0.6471952619335222,False
+亚洲狗獾 Meles leucurus,紫貂 Martes zibellina,0.04588314677411236,0.6970310032898968,False
+亚洲狗獾 Meles leucurus,红胁蓝尾鸲 Tarsiger cyanurus,0.12216944435630522,0.29990268016695854,False
+亚洲狗獾 Meles leucurus,花尾榛鸡 Tetrastes bonasia,0.07559289460184544,0.5212453081148145,False
+亚洲狗獾 Meles leucurus,苍鹰 Accipiter gentilis,-0.12085142557737355,0.30514696788495,False
+亚洲狗獾 Meles leucurus,虎斑地鸫 Zoothera aurea,0.17213259316477408,0.1441270348160112,False
+亚洲狗獾 Meles leucurus,豹猫 Prionailurus bengalensis,0.03138824102871722,0.7899788659941247,False
+亚洲狗獾 Meles leucurus,貉 Nyctereutes procyonoides,0.14675987714106858,0.21302191750884258,False
+亚洲狗獾 Meles leucurus,野猪 Sus scrofa,0.17103722209882732,0.14669663217607642,False
+亚洲狗獾 Meles leucurus,长尾林鸮 Strix uralensis,0.05976143046671969,0.6120898800892567,False
+亚洲狗獾 Meles leucurus,马鹿 Cervus elaphus,-0.13764944032233706,0.24280909147329188,False
+亚洲狗獾 Meles leucurus,鸳鸯 Aix galericulata,0.09325048082403138,0.42879428738548975,False
+亚洲狗獾 Meles leucurus,黄喉貂 Martes flavigula,0.013321497260575911,0.9100014968621728,False
+亚洲狗獾 Meles leucurus,黄鼬 Mustela sibirica,0.14907119849998599,0.2059032107320682,False
+亚洲狗獾 Meles leucurus,黑熊 Ursus thibetanus,0.04099600308453939,0.7279433579426395,False
+北花松鼠 Tamias sibiricus,山斑鸠 Streptopelia orientalis,0.07548737230565958,0.5218270557473316,False
+北花松鼠 Tamias sibiricus,斑鸫 Turdus eunomus,0.11826247919781652,0.3156243007353209,False
+北花松鼠 Tamias sibiricus,星鸦 Nucifraga caryocatactes,-0.06944838252120682,0.5556673779086578,False
+北花松鼠 Tamias sibiricus,普通䴓 Sitta europaea,0.14197293500509645,0.22832674354237836,False
+北花松鼠 Tamias sibiricus,未知UN ,0.1115160975915447,0.34402340127621933,False
+北花松鼠 Tamias sibiricus,松鸦 Garrulus glandarius,0.03739787960033829,0.7509920543280972,False
+北花松鼠 Tamias sibiricus,松鼠 Sciurus vulgaris,0.3575921250141394,0.002411186919389685,True
+北花松鼠 Tamias sibiricus,棕熊 Ursus arctos,-0.06944838252120682,0.5556673779086578,False
+北花松鼠 Tamias sibiricus,灰头绿啄木鸟 Picus canus,0.29697708110702653,0.011737680902690006,True
+北花松鼠 Tamias sibiricus,灰背鸫 Turdus hortulorum,0.15172899426698383,0.19793288513386165,False
+北花松鼠 Tamias sibiricus,狍 Capreolus pygargus,0.0,1.0,False
+北花松鼠 Tamias sibiricus,环颈雉 Phasianus colchicus,-0.10804411156990576,0.35925547814019343,False
+北花松鼠 Tamias sibiricus,白眉地鸫 Geokichla sibirica,0.2523785366545485,0.03223350516599055,True
+北花松鼠 Tamias sibiricus,白背啄木鸟 Dendrocopos leucotos,0.18732400500597057,0.11194825549097764,False
+北花松鼠 Tamias sibiricus,白腹鸫 Turdus pallidus,0.05547001962252291,0.6378701798979456,False
+北花松鼠 Tamias sibiricus,紫貂 Martes zibellina,-0.00857966199371452,0.941964597644866,False
+北花松鼠 Tamias sibiricus,红胁蓝尾鸲 Tarsiger cyanurus,0.18732400500597057,0.11194825549097764,False
+北花松鼠 Tamias sibiricus,花尾榛鸡 Tetrastes bonasia,0.24029618753167464,0.04145194737415503,True
+北花松鼠 Tamias sibiricus,苍鹰 Accipiter gentilis,-0.15818554721451508,0.1795153132736822,False
+北花松鼠 Tamias sibiricus,虎斑地鸫 Zoothera aurea,0.3701501546820385,0.0016847081903706984,True
+北花松鼠 Tamias sibiricus,豹猫 Prionailurus bengalensis,0.1819473171230466,0.1226188159986007,False
+北花松鼠 Tamias sibiricus,貉 Nyctereutes procyonoides,0.0744868972101145,0.5273592491218779,False
+北花松鼠 Tamias sibiricus,野猪 Sus scrofa,0.14163522329719724,0.22943532018698276,False
+北花松鼠 Tamias sibiricus,长尾林鸮 Strix uralensis,-0.08939803125353485,0.44811135052954054,False
+北花松鼠 Tamias sibiricus,马鹿 Cervus elaphus,0.19733222585543392,0.0940481908084434,False
+北花松鼠 Tamias sibiricus,黄喉貂 Martes flavigula,-0.2067512365186105,0.0793718518607196,False
+北花松鼠 Tamias sibiricus,黄鼬 Mustela sibirica,0.19512313566832118,0.09778771173180645,False
+北花松鼠 Tamias sibiricus,黑熊 Ursus thibetanus,0.08432399730978857,0.47429220736128386,False
+大嘴乌鸦 Corvus macrorhynchos,未知UN ,0.13263952726932274,0.260384116241693,False
+大嘴乌鸦 Corvus macrorhynchos,松鸦 Garrulus glandarius,0.1690308509457033,0.1514939924042159,False
+大嘴乌鸦 Corvus macrorhynchos,松鼠 Sciurus vulgaris,-0.20203050891044216,0.0864762654936655,False
+大嘴乌鸦 Corvus macrorhynchos,狍 Capreolus pygargus,0.0,1.0,False
+大嘴乌鸦 Corvus macrorhynchos,环颈雉 Phasianus colchicus,0.25012410028066373,0.033806396681867246,True
+大嘴乌鸦 Corvus macrorhynchos,白腹鸫 Turdus pallidus,0.022792115291927588,0.846647664287496,False
+大嘴乌鸦 Corvus macrorhynchos,紫貂 Martes zibellina,-0.1163350101494222,0.3235763171447097,False
+大嘴乌鸦 Corvus macrorhynchos,花尾榛鸡 Tetrastes bonasia,0.021295885499997995,0.8566018180876993,False
+大嘴乌鸦 Corvus macrorhynchos,苍鹰 Accipiter gentilis,0.18968503638820156,0.1075003026133009,False
+大嘴乌鸦 Corvus macrorhynchos,野猪 Sus scrofa,0.10325202569555011,0.3809634473768888,False
+大嘴乌鸦 Corvus macrorhynchos,马鹿 Cervus elaphus,0.09048278567177283,0.4426227139590827,False
+大嘴乌鸦 Corvus macrorhynchos,黄喉貂 Martes flavigula,-0.10132848080217008,0.38989892943378224,False
+大嘴乌鸦 Corvus macrorhynchos,黄鼬 Mustela sibirica,-0.0419960525565808,0.7215797250891101,False
+小嘴乌鸦 Corvus corone,松鸦 Garrulus glandarius,0.18650096164806276,0.1135324759118328,False
+小嘴乌鸦 Corvus corone,狍 Capreolus pygargus,0.0,1.0,False
+小嘴乌鸦 Corvus corone,紫貂 Martes zibellina,0.10696563746013953,0.3640718724146135,False
+小嘴乌鸦 Corvus corone,花尾榛鸡 Tetrastes bonasia,0.24671758189758447,0.03630738861038996,True
+小嘴乌鸦 Corvus corone,野猪 Sus scrofa,0.056961797141151044,0.6288565604685892,False
+小嘴乌鸦 Corvus corone,黄鼬 Mustela sibirica,0.20851441405707477,0.07684324403365628,False
+山斑鸠 Streptopelia orientalis,未知UN ,0.13431674809312508,0.2544048888033634,False
+山斑鸠 Streptopelia orientalis,松鸦 Garrulus glandarius,-0.016147947019964574,0.8910150860267575,False
+山斑鸠 Streptopelia orientalis,松鼠 Sciurus vulgaris,-0.009650244130138862,0.9347381334010685,False
+山斑鸠 Streptopelia orientalis,狍 Capreolus pygargus,0.0,1.0,False
+山斑鸠 Streptopelia orientalis,白眉地鸫 Geokichla sibirica,0.043082730520436346,0.7146866428496104,False
+山斑鸠 Streptopelia orientalis,紫貂 Martes zibellina,0.0629780829734981,0.5930739811615182,False
+山斑鸠 Streptopelia orientalis,花尾榛鸡 Tetrastes bonasia,0.04272345199907282,0.7169630985055419,False
+山斑鸠 Streptopelia orientalis,苍鹰 Accipiter gentilis,0.20211989324217133,0.08633712986101405,False
+山斑鸠 Streptopelia orientalis,虎斑地鸫 Zoothera aurea,0.06254072988376248,0.5956435345881892,False
+山斑鸠 Streptopelia orientalis,豹猫 Prionailurus bengalensis,0.2255507656658138,0.05563782789803362,False
+山斑鸠 Streptopelia orientalis,貉 Nyctereutes procyonoides,0.21159560006522188,0.07258231816059368,False
+山斑鸠 Streptopelia orientalis,野猪 Sus scrofa,-0.013809500004468888,0.9067194018807195,False
+山斑鸠 Streptopelia orientalis,马鹿 Cervus elaphus,0.0629780829734981,0.5930739811615182,False
+山斑鸠 Streptopelia orientalis,黄喉貂 Martes flavigula,0.011831315759471066,0.9200330864240143,False
+山斑鸠 Streptopelia orientalis,黄鼬 Mustela sibirica,0.2527553506359416,0.03197681938671204,True
+山斑鸠 Streptopelia orientalis,黑熊 Ursus thibetanus,0.09599018644671972,0.41535642988040933,False
+斑鸫 Turdus eunomus,未知UN ,0.2729604168420058,0.02055030164647631,True
+斑鸫 Turdus eunomus,松鸦 Garrulus glandarius,0.1383496476323666,0.2404207863684349,False
+斑鸫 Turdus eunomus,松鼠 Sciurus vulgaris,0.1889822365046136,0.1088094300405461,False
+斑鸫 Turdus eunomus,灰背鸫 Turdus hortulorum,0.464058426867722,8.227789875003833e-05,True
+斑鸫 Turdus eunomus,狍 Capreolus pygargus,0.0,1.0,False
+斑鸫 Turdus eunomus,白眉地鸫 Geokichla sibirica,0.2729604168420058,0.02055030164647631,True
+斑鸫 Turdus eunomus,白背啄木鸟 Dendrocopos leucotos,0.4249670751074407,0.00031099480680640834,True
+斑鸫 Turdus eunomus,白腹鸫 Turdus pallidus,0.43706146852900135,0.00020841696234785712,True
+斑鸫 Turdus eunomus,紫貂 Martes zibellina,0.07254762501100116,0.538167125969846,False
+斑鸫 Turdus eunomus,花尾榛鸡 Tetrastes bonasia,0.23904572186687875,0.04252247799805153,True
+斑鸫 Turdus eunomus,虎斑地鸫 Zoothera aurea,0.3061862178478973,0.009374768459434857,True
+斑鸫 Turdus eunomus,野猪 Sus scrofa,-0.07726674092862558,0.512062193855614,False
+斑鸫 Turdus eunomus,马鹿 Cervus elaphus,0.07254762501100116,0.538167125969846,False
+斑鸫 Turdus eunomus,黄喉貂 Martes flavigula,-0.04212627318711346,0.7207524951130112,False
+斑鸫 Turdus eunomus,黄鼬 Mustela sibirica,-0.08838834764831845,0.4532547047537363,False
+斑鸫 Turdus eunomus,黑熊 Ursus thibetanus,0.1620509308880411,0.16911664289919215,False
+星鸦 Nucifraga caryocatactes,未知UN ,0.043082730520436346,0.7146866428496104,False
+星鸦 Nucifraga caryocatactes,松鸦 Garrulus glandarius,0.05651781456987601,0.6315334959974808,False
+星鸦 Nucifraga caryocatactes,松鼠 Sciurus vulgaris,0.16405415021236064,0.16390858227367577,False
+星鸦 Nucifraga caryocatactes,棕熊 Ursus arctos,0.530638852672751,6.712084192894707e-06,True
+星鸦 Nucifraga caryocatactes,灰背鸫 Turdus hortulorum,0.20211989324217133,0.08633712986101405,False
+星鸦 Nucifraga caryocatactes,狍 Capreolus pygargus,0.0,1.0,False
+星鸦 Nucifraga caryocatactes,白眉地鸫 Geokichla sibirica,0.2255507656658138,0.05563782789803362,False
+星鸦 Nucifraga caryocatactes,白腹鸫 Turdus pallidus,0.23733537178633965,0.04402450621085252,True
+星鸦 Nucifraga caryocatactes,紫貂 Martes zibellina,0.15188831775961306,0.19746237044050075,False
+星鸦 Nucifraga caryocatactes,花尾榛鸡 Tetrastes bonasia,0.18920385885303678,0.10839525270268358,False
+星鸦 Nucifraga caryocatactes,虎斑地鸫 Zoothera aurea,0.14592836972877912,0.21562586894988767,False
+星鸦 Nucifraga caryocatactes,野猪 Sus scrofa,-0.013809500004468888,0.9067194018807195,False
+星鸦 Nucifraga caryocatactes,长尾林鸮 Strix uralensis,0.1833546384726384,0.11975192400551138,False
+星鸦 Nucifraga caryocatactes,马鹿 Cervus elaphus,0.0629780829734981,0.5930739811615182,False
+星鸦 Nucifraga caryocatactes,黄喉貂 Martes flavigula,-0.06561002375706683,0.5777190831085348,False
+星鸦 Nucifraga caryocatactes,黄鼬 Mustela sibirica,-0.18053953616852972,0.12554001464545306,False
+星鸦 Nucifraga caryocatactes,黑熊 Ursus thibetanus,0.17543034074745328,0.13659910734875602,False
+普通䴓 Sitta europaea,未知UN ,0.34045327482409776,0.0038666351083865846,True
+普通䴓 Sitta europaea,松鸦 Garrulus glandarius,0.21693045781865616,0.06566319190946501,False
+普通䴓 Sitta europaea,松鼠 Sciurus vulgaris,0.12964074471043288,0.27131547988984783,False
+普通䴓 Sitta europaea,狍 Capreolus pygargus,0.0,1.0,False
+普通䴓 Sitta europaea,白眉地鸫 Geokichla sibirica,0.49365724849494175,2.8040788842775832e-05,True
+普通䴓 Sitta europaea,白腹鸫 Turdus pallidus,0.2340071757206818,0.04707589741358076,True
+普通䴓 Sitta europaea,紫貂 Martes zibellina,0.12441815044835988,0.2910947793073635,False
+普通䴓 Sitta europaea,花尾榛鸡 Tetrastes bonasia,0.28697202159177576,0.014890211481843663,True
+普通䴓 Sitta europaea,虎斑地鸫 Zoothera aurea,0.28005601680560194,0.017484674410521373,True
+普通䴓 Sitta europaea,野猪 Sus scrofa,0.06625568373916033,0.5739810427452322,False
+普通䴓 Sitta europaea,马鹿 Cervus elaphus,-0.024883630089671975,0.8327744365988273,False
+普通䴓 Sitta europaea,黄喉貂 Martes flavigula,0.16616571372508562,0.15855065695510384,False
+普通䴓 Sitta europaea,黄鼬 Mustela sibirica,0.12126781251816648,0.30348366402484206,False
+未知UN ,松鸦 Garrulus glandarius,0.15694120514358612,0.1829619829979071,False
+未知UN ,松鼠 Sciurus vulgaris,0.1782015874524806,0.13051081308109547,False
+未知UN ,棕熊 Ursus arctos,0.043082730520436346,0.7146866428496104,False
+未知UN ,沼泽山雀 Poecile palustris,0.27993192950341206,0.017534635714686497,True
+未知UN ,灰头绿啄木鸟 Picus canus,0.27993192950341206,0.017534635714686497,True
+未知UN ,灰背鸫 Turdus hortulorum,0.1815371544314341,0.12346438319682618,False
+未知UN ,狍 Capreolus pygargus,0.0,1.0,False
+未知UN ,白眉地鸫 Geokichla sibirica,0.5566502463054187,2.3200938306100483e-06,True
+未知UN ,白腹鸫 Turdus pallidus,0.2073870882883376,0.0784522739799497,False
+未知UN ,紫貂 Martes zibellina,-0.18002390876273094,0.12662342948273042,False
+未知UN ,红胁蓝尾鸲 Tarsiger cyanurus,0.27993192950341206,0.017534635714686497,True
+未知UN ,花尾榛鸡 Tetrastes bonasia,0.22540915960300847,0.05579157471070739,False
+未知UN ,虎斑地鸫 Zoothera aurea,0.28365431446558775,0.016089161747640746,True
+未知UN ,野猪 Sus scrofa,-0.0038346839658001653,0.9740427154448601,False
+未知UN ,马鹿 Cervus elaphus,-0.09361243255662009,0.42700460634581205,False
+未知UN ,黄喉貂 Martes flavigula,0.03554176118466,0.7629708501775656,False
+未知UN ,黄鼬 Mustela sibirica,0.07018624063435965,0.5514758871367825,False
+未知UN ,黑熊 Ursus thibetanus,-0.006433962130157785,0.9564619356481422,False
+松鸦 Garrulus glandarius,松鼠 Sciurus vulgaris,0.12699303974177933,0.2812249485360866,False
+松鸦 Garrulus glandarius,棕熊 Ursus arctos,-0.08881370860980516,0.45108385387047023,False
+松鸦 Garrulus glandarius,沼泽山雀 Poecile palustris,0.024433888871261047,0.8357533786935177,False
+松鸦 Garrulus glandarius,灰头绿啄木鸟 Picus canus,0.24433888871261047,0.03814583625955292,True
+松鸦 Garrulus glandarius,灰背鸫 Turdus hortulorum,-0.00863224468409811,0.9416095462914744,False
+松鸦 Garrulus glandarius,狍 Capreolus pygargus,0.0,1.0,False
+松鸦 Garrulus glandarius,环颈雉 Phasianus colchicus,0.02818579300831268,0.8109781184468124,False
+松鸦 Garrulus glandarius,白眉地鸫 Geokichla sibirica,0.08631766282897237,0.46390636299002785,False
+松鸦 Garrulus glandarius,白背啄木鸟 Dendrocopos leucotos,0.13438638879193576,0.2541587049867907,False
+松鸦 Garrulus glandarius,白腹鸫 Turdus pallidus,-0.013483997249264842,0.9089084189702145,False
+松鸦 Garrulus glandarius,紫貂 Martes zibellina,0.022941573387056175,0.845654661408584,False
+松鸦 Garrulus glandarius,红胁蓝尾鸲 Tarsiger cyanurus,0.13438638879193576,0.2541587049867907,False
+松鸦 Garrulus glandarius,花尾榛鸡 Tetrastes bonasia,0.18898223650461363,0.108809430040546,False
+松鸦 Garrulus glandarius,苍鹰 Accipiter gentilis,0.06905795747278488,0.5578915084825034,False
+松鸦 Garrulus glandarius,虎斑地鸫 Zoothera aurea,0.12909944487358058,0.27332167829229814,False
+松鸦 Garrulus glandarius,豹猫 Prionailurus bengalensis,-0.054929421800255146,0.6411499358637565,False
+松鸦 Garrulus glandarius,貉 Nyctereutes procyonoides,0.10482848367219183,0.3737348637126465,False
+松鸦 Garrulus glandarius,野猪 Sus scrofa,0.08551861104941366,0.46805368129761127,False
+松鸦 Garrulus glandarius,长尾林鸮 Strix uralensis,0.2091650066335189,0.07592696298255786,False
+松鸦 Garrulus glandarius,马鹿 Cervus elaphus,0.022941573387056175,0.845654661408584,False
+松鸦 Garrulus glandarius,黄喉貂 Martes flavigula,-0.013321497260575911,0.9100014968621728,False
+松鸦 Garrulus glandarius,黄鼬 Mustela sibirica,0.0,1.0,False
+松鸦 Garrulus glandarius,黑熊 Ursus thibetanus,0.020498001542269696,0.8619194452813224,False
+松鼠 Sciurus vulgaris,棕熊 Ursus arctos,-0.009650244130138862,0.9347381334010685,False
+松鼠 Sciurus vulgaris,沼泽山雀 Poecile palustris,-0.11681633206491382,0.3215784368082779,False
+松鼠 Sciurus vulgaris,灰头绿啄木鸟 Picus canus,0.14602041508114227,0.2153364960116525,False
+松鼠 Sciurus vulgaris,灰背鸫 Turdus hortulorum,0.13412757551971435,0.25507446182635607,False
+松鼠 Sciurus vulgaris,狍 Capreolus pygargus,0.0,1.0,False
+松鼠 Sciurus vulgaris,环颈雉 Phasianus colchicus,-0.05895481581554712,0.6169003226740972,False
+松鼠 Sciurus vulgaris,白眉地鸫 Geokichla sibirica,0.1782015874524806,0.13051081308109547,False
+松鼠 Sciurus vulgaris,白背啄木鸟 Dendrocopos leucotos,0.14602041508114227,0.2153364960116525,False
+松鼠 Sciurus vulgaris,白腹鸫 Turdus pallidus,0.2820380374088831,0.016703403847161513,True
+松鼠 Sciurus vulgaris,紫貂 Martes zibellina,0.05484084971070818,0.6416879650818696,False
+松鼠 Sciurus vulgaris,红胁蓝尾鸲 Tarsiger cyanurus,0.014602041508114227,0.9013925282534971,False
+松鼠 Sciurus vulgaris,花尾榛鸡 Tetrastes bonasia,0.18070158058105026,0.12520102961031487,False
+松鼠 Sciurus vulgaris,苍鹰 Accipiter gentilis,-0.23730263361180232,0.04405368822031841,True
+松鼠 Sciurus vulgaris,虎斑地鸫 Zoothera aurea,0.1543033499620919,0.19043026382552408,False
+松鼠 Sciurus vulgaris,豹猫 Prionailurus bengalensis,-0.07503224734841289,0.5243399939553677,False
+松鼠 Sciurus vulgaris,貉 Nyctereutes procyonoides,0.17541160386140583,0.1366410048074831,False
+松鼠 Sciurus vulgaris,野猪 Sus scrofa,0.11681633206491382,0.3215784368082779,False
+松鼠 Sciurus vulgaris,长尾林鸮 Strix uralensis,0.20535714285714285,0.08141869434048332,False
+松鼠 Sciurus vulgaris,马鹿 Cervus elaphus,0.05484084971070818,0.6416879650818696,False
+松鼠 Sciurus vulgaris,黄喉貂 Martes flavigula,-0.0796111732250504,0.499343413309697,False
+松鼠 Sciurus vulgaris,黄鼬 Mustela sibirica,0.0668153104781061,0.5707503880581739,False
+松鼠 Sciurus vulgaris,黑熊 Ursus thibetanus,0.2694977766525139,0.022209574686315348,True
+棕熊 Ursus arctos,灰背鸫 Turdus hortulorum,0.10175691177019659,0.38789777782439494,False
+棕熊 Ursus arctos,狍 Capreolus pygargus,0.0,1.0,False
+棕熊 Ursus arctos,白眉地鸫 Geokichla sibirica,0.13431674809312508,0.2544048888033634,False
+棕熊 Ursus arctos,白腹鸫 Turdus pallidus,0.0805633830834364,0.49422590625285345,False
+棕熊 Ursus arctos,紫貂 Martes zibellina,0.15188831775961306,0.19746237044050075,False
+棕熊 Ursus arctos,花尾榛鸡 Tetrastes bonasia,0.18920385885303678,0.10839525270268358,False
+棕熊 Ursus arctos,虎斑地鸫 Zoothera aurea,0.06254072988376248,0.5956435345881892,False
+棕熊 Ursus arctos,野猪 Sus scrofa,0.12823107147006824,0.2765612389490767,False
+棕熊 Ursus arctos,长尾林鸮 Strix uralensis,0.009650244130138862,0.9347381334010685,False
+棕熊 Ursus arctos,马鹿 Cervus elaphus,0.15188831775961306,0.19746237044050075,False
+棕熊 Ursus arctos,黄喉貂 Martes flavigula,-0.06561002375706683,0.5777190831085348,False
+棕熊 Ursus arctos,黄鼬 Mustela sibirica,0.036107907233705945,0.7593109547971726,False
+棕熊 Ursus arctos,黑熊 Ursus thibetanus,0.17543034074745328,0.13659910734875602,False
+沼泽山雀 Poecile palustris,狍 Capreolus pygargus,0.0,1.0,False
+沼泽山雀 Poecile palustris,紫貂 Martes zibellina,0.005605518546712105,0.9620634028971643,False
+沼泽山雀 Poecile palustris,花尾榛鸡 Tetrastes bonasia,0.21240826440822067,0.07149131726657643,False
+沼泽山雀 Poecile palustris,野猪 Sus scrofa,0.07462686567164178,0.5265834880579104,False
+沼泽山雀 Poecile palustris,马鹿 Cervus elaphus,0.005605518546712105,0.9620634028971643,False
+沼泽山雀 Poecile palustris,黄喉貂 Martes flavigula,0.18716019060663913,0.11226217298398766,False
+沼泽山雀 Poecile palustris,黄鼬 Mustela sibirica,0.05463583647081531,0.6429340350681252,False
+灰头绿啄木鸟 Picus canus,狍 Capreolus pygargus,0.0,1.0,False
+灰头绿啄木鸟 Picus canus,紫貂 Martes zibellina,-0.1289269265743784,0.2739632022710121,False
+灰头绿啄木鸟 Picus canus,红胁蓝尾鸲 Tarsiger cyanurus,0.5701492537313433,1.3123341090492957e-06,True
+灰头绿啄木鸟 Picus canus,花尾榛鸡 Tetrastes bonasia,0.3232299675777271,0.006093684406574984,True
+灰头绿啄木鸟 Picus canus,虎斑地鸫 Zoothera aurea,0.22080810425677913,0.06098297192582158,False
+灰头绿啄木鸟 Picus canus,野猪 Sus scrofa,0.07462686567164178,0.5265834880579104,False
+灰头绿啄木鸟 Picus canus,黄喉貂 Martes flavigula,0.06998163648769985,0.5526366067432471,False
+灰头绿啄木鸟 Picus canus,黄鼬 Mustela sibirica,0.16390750941244592,0.16428567766169644,False
+灰头绿啄木鸟 Picus canus,黑熊 Ursus thibetanus,0.18531297995369944,0.1158502177270535,False
+灰背鸫 Turdus hortulorum,狍 Capreolus pygargus,0.0,1.0,False
+灰背鸫 Turdus hortulorum,白眉地鸫 Geokichla sibirica,0.08399480279663368,0.4760193253274151,False
+灰背鸫 Turdus hortulorum,白腹鸫 Turdus pallidus,0.38876652634170233,0.0009710135954773547,True
+灰背鸫 Turdus hortulorum,紫貂 Martes zibellina,0.027725218488136732,0.814009826345129,False
+灰背鸫 Turdus hortulorum,花尾榛鸡 Tetrastes bonasia,0.11093118163900274,0.3465602162666038,False
+灰背鸫 Turdus hortulorum,虎斑地鸫 Zoothera aurea,0.11144179967299828,0.34434497686429477,False
+灰背鸫 Turdus hortulorum,野猪 Sus scrofa,0.11600561902643293,0.3249482118422852,False
+灰背鸫 Turdus hortulorum,马鹿 Cervus elaphus,0.027725218488136732,0.814009826345129,False
+灰背鸫 Turdus hortulorum,黄喉貂 Martes flavigula,0.12534392206389902,0.2875197103071556,False
+灰背鸫 Turdus hortulorum,黄鼬 Mustela sibirica,-0.11581371547232744,0.32574922133019624,False
+灰背鸫 Turdus hortulorum,黑熊 Ursus thibetanus,0.15217163776918752,0.19662769179718487,False
+狍 Capreolus pygargus,环颈雉 Phasianus colchicus,0.0,1.0,False
+狍 Capreolus pygargus,白眉地鸫 Geokichla sibirica,0.0,1.0,False
+狍 Capreolus pygargus,白背啄木鸟 Dendrocopos leucotos,0.0,1.0,False
+狍 Capreolus pygargus,白腹鸫 Turdus pallidus,0.0,1.0,False
+狍 Capreolus pygargus,紫貂 Martes zibellina,0.0,1.0,False
+狍 Capreolus pygargus,红胁蓝尾鸲 Tarsiger cyanurus,0.0,1.0,False
+狍 Capreolus pygargus,花尾榛鸡 Tetrastes bonasia,0.0,1.0,False
+狍 Capreolus pygargus,苍鹰 Accipiter gentilis,0.0,1.0,False
+狍 Capreolus pygargus,虎斑地鸫 Zoothera aurea,0.0,1.0,False
+狍 Capreolus pygargus,豹猫 Prionailurus bengalensis,0.0,1.0,False
+狍 Capreolus pygargus,貉 Nyctereutes procyonoides,0.0,1.0,False
+狍 Capreolus pygargus,野猪 Sus scrofa,0.0,1.0,False
+狍 Capreolus pygargus,长尾林鸮 Strix uralensis,0.0,1.0,False
+狍 Capreolus pygargus,马鹿 Cervus elaphus,0.0,1.0,False
+狍 Capreolus pygargus,鸳鸯 Aix galericulata,0.0,1.0,False
+狍 Capreolus pygargus,黄喉貂 Martes flavigula,0.0,1.0,False
+狍 Capreolus pygargus,黄鼬 Mustela sibirica,0.0,1.0,False
+狍 Capreolus pygargus,黑熊 Ursus thibetanus,0.0,1.0,False
+环颈雉 Phasianus colchicus,白眉地鸫 Geokichla sibirica,-0.05529390403315319,0.6389378823209599,False
+环颈雉 Phasianus colchicus,白腹鸫 Turdus pallidus,-0.05510828753190327,0.6400639946409579,False
+环颈雉 Phasianus colchicus,紫貂 Martes zibellina,-0.08082830484657252,0.49280712905465673,False
+环颈雉 Phasianus colchicus,花尾榛鸡 Tetrastes bonasia,0.0053266142003670315,0.963949631655427,False
+环颈雉 Phasianus colchicus,苍鹰 Accipiter gentilis,0.008515733165208388,0.9423962764615478,False
+环颈雉 Phasianus colchicus,虎斑地鸫 Zoothera aurea,0.018193851153474074,0.8773101646176406,False
+环颈雉 Phasianus colchicus,豹猫 Prionailurus bengalensis,0.103952539582328,0.3777408209221804,False
+环颈雉 Phasianus colchicus,野猪 Sus scrofa,0.039599590711525016,0.7368605584258604,False
+环颈雉 Phasianus colchicus,长尾林鸮 Strix uralensis,0.05895481581554712,0.6169003226740972,False
+环颈雉 Phasianus colchicus,马鹿 Cervus elaphus,-0.0032331321938629007,0.9781135513486423,False
+环颈雉 Phasianus colchicus,黄喉貂 Martes flavigula,0.1398651692194054,0.23530836715589476,False
+环颈雉 Phasianus colchicus,黄鼬 Mustela sibirica,0.09453802374948816,0.4224478419544786,False
+环颈雉 Phasianus colchicus,黑熊 Ursus thibetanus,-0.17621449070911874,0.13485454768642402,False
+白眉地鸫 Geokichla sibirica,白腹鸫 Turdus pallidus,0.2835701003126249,0.01612066884939345,True
+白眉地鸫 Geokichla sibirica,紫貂 Martes zibellina,-0.0072009563505092385,0.9512778642285987,False
+白眉地鸫 Geokichla sibirica,花尾榛鸡 Tetrastes bonasia,0.2965909994776427,0.011847373877059031,True
+白眉地鸫 Geokichla sibirica,虎斑地鸫 Zoothera aurea,0.28365431446558775,0.016089161747640746,True
+白眉地鸫 Geokichla sibirica,野猪 Sus scrofa,-0.0038346839658001653,0.9740427154448601,False
+白眉地鸫 Geokichla sibirica,长尾林鸮 Strix uralensis,-0.009379030918551612,0.9365683465941906,False
+白眉地鸫 Geokichla sibirica,马鹿 Cervus elaphus,0.07921051985560162,0.5015050460433695,False
+白眉地鸫 Geokichla sibirica,黄喉貂 Martes flavigula,-0.039723144853443526,0.7360701164477684,False
+白眉地鸫 Geokichla sibirica,黄鼬 Mustela sibirica,0.21055872190307892,0.07399407486076415,False
+白眉地鸫 Geokichla sibirica,黑熊 Ursus thibetanus,-0.08364150769205121,0.47787671583081004,False
+白背啄木鸟 Dendrocopos leucotos,白腹鸫 Turdus pallidus,0.1746172398743312,0.13842641602893746,False
+白背啄木鸟 Dendrocopos leucotos,紫貂 Martes zibellina,0.005605518546712105,0.9620634028971643,False
+白背啄木鸟 Dendrocopos leucotos,花尾榛鸡 Tetrastes bonasia,0.21240826440822067,0.07149131726657643,False
+白背啄木鸟 Dendrocopos leucotos,野猪 Sus scrofa,-0.14029850746268657,0.23386080615150007,False
+白背啄木鸟 Dendrocopos leucotos,黄喉貂 Martes flavigula,0.06998163648769985,0.5526366067432471,False
+白背啄木鸟 Dendrocopos leucotos,黑熊 Ursus thibetanus,0.18531297995369944,0.1158502177270535,False
+白腹鸫 Turdus pallidus,紫貂 Martes zibellina,0.11755076272905172,0.31854550245009494,False
+白腹鸫 Turdus pallidus,花尾榛鸡 Tetrastes bonasia,0.3567530340063379,0.002468715225802387,True
+白腹鸫 Turdus pallidus,苍鹰 Accipiter gentilis,-0.030263262529593594,0.7973391161627201,False
+白腹鸫 Turdus pallidus,虎斑地鸫 Zoothera aurea,0.24370871833797697,0.03864594304240909,True
+白腹鸫 Turdus pallidus,豹猫 Prionailurus bengalensis,-0.09734495980881153,0.4088044467214508,False
+白腹鸫 Turdus pallidus,貉 Nyctereutes procyonoides,0.1894099360543788,0.10801124710901533,False
+白腹鸫 Turdus pallidus,野猪 Sus scrofa,0.18120656968090973,0.12414920463408707,False
+白腹鸫 Turdus pallidus,长尾林鸮 Strix uralensis,0.008058229640253803,0.9454860510093598,False
+白腹鸫 Turdus pallidus,马鹿 Cervus elaphus,-0.030934411244487297,0.7929458650985228,False
+白腹鸫 Turdus pallidus,黄喉貂 Martes flavigula,0.13112773366491715,0.26585632149192806,False
+白腹鸫 Turdus pallidus,黄鼬 Mustela sibirica,-0.18090680674665816,0.12477273604372219,False
+白腹鸫 Turdus pallidus,黑熊 Ursus thibetanus,0.17136489777506245,0.1459243009660871,False
+紫貂 Martes zibellina,红胁蓝尾鸲 Tarsiger cyanurus,-0.1289269265743784,0.2739632022710121,False
+紫貂 Martes zibellina,花尾榛鸡 Tetrastes bonasia,0.086710996952412,0.4618723810929033,False
+紫貂 Martes zibellina,苍鹰 Accipiter gentilis,0.027725218488136732,0.814009826345129,False
+紫貂 Martes zibellina,虎斑地鸫 Zoothera aurea,0.1382147381437882,0.24087965092864738,False
+紫貂 Martes zibellina,豹猫 Prionailurus bengalensis,-0.0072009563505092385,0.9512778642285987,False
+紫貂 Martes zibellina,貉 Nyctereutes procyonoides,-0.06252818913170463,0.5957172893162241,False
+紫貂 Martes zibellina,野猪 Sus scrofa,-0.14013796366780262,0.23439636296609423,False
+紫貂 Martes zibellina,长尾林鸮 Strix uralensis,-0.13710212427677046,0.24468748586592992,False
+紫貂 Martes zibellina,马鹿 Cervus elaphus,0.15789473684210525,0.18031646680979552,False
+紫貂 Martes zibellina,黄喉貂 Martes flavigula,-0.058067060335504316,0.6222137332156791,False
+紫貂 Martes zibellina,黄鼬 Mustela sibirica,0.03419927840283847,0.7716705035436164,False
+紫貂 Martes zibellina,黑熊 Ursus thibetanus,0.17869743453458892,0.1294440138939601,False
+红胁蓝尾鸲 Tarsiger cyanurus,花尾榛鸡 Tetrastes bonasia,0.3232299675777271,0.006093684406574984,True
+红胁蓝尾鸲 Tarsiger cyanurus,虎斑地鸫 Zoothera aurea,0.22080810425677913,0.06098297192582158,False
+红胁蓝尾鸲 Tarsiger cyanurus,野猪 Sus scrofa,0.07462686567164178,0.5265834880579104,False
+红胁蓝尾鸲 Tarsiger cyanurus,马鹿 Cervus elaphus,-0.1289269265743784,0.2739632022710121,False
+红胁蓝尾鸲 Tarsiger cyanurus,黄喉貂 Martes flavigula,0.06998163648769985,0.5526366067432471,False
+红胁蓝尾鸲 Tarsiger cyanurus,黄鼬 Mustela sibirica,0.05463583647081531,0.6429340350681252,False
+红胁蓝尾鸲 Tarsiger cyanurus,黑熊 Ursus thibetanus,0.18531297995369944,0.1158502177270535,False
+花尾榛鸡 Tetrastes bonasia,虎斑地鸫 Zoothera aurea,0.35783002674779546,0.0023951010516096716,True
+花尾榛鸡 Tetrastes bonasia,豹猫 Prionailurus bengalensis,0.01186363997910571,0.9198153456100803,False
+花尾榛鸡 Tetrastes bonasia,貉 Nyctereutes procyonoides,0.007924288517503273,0.9463907868445253,False
+花尾榛鸡 Tetrastes bonasia,野猪 Sus scrofa,0.23087854826980508,0.05010465451416268,False
+花尾榛鸡 Tetrastes bonasia,长尾林鸮 Strix uralensis,0.022587697572631283,0.8480062142193098,False
+花尾榛鸡 Tetrastes bonasia,马鹿 Cervus elaphus,0.0173421993904824,0.8830109087611402,False
+花尾榛鸡 Tetrastes bonasia,黄喉貂 Martes flavigula,0.03524536884251207,0.7648890226298742,False
+花尾榛鸡 Tetrastes bonasia,黄鼬 Mustela sibirica,0.1690308509457033,0.1514939924042159,False
+花尾榛鸡 Tetrastes bonasia,黑熊 Ursus thibetanus,0.4493559483386449,0.00013733921232428337,True
+苍鹰 Accipiter gentilis,貉 Nyctereutes procyonoides,0.2515636236161335,0.032794667887575235,True
+苍鹰 Accipiter gentilis,野猪 Sus scrofa,-0.03585628224453381,0.7609369442027432,False
+苍鹰 Accipiter gentilis,马鹿 Cervus elaphus,-0.06733267347118921,0.5677714422179649,False
+苍鹰 Accipiter gentilis,黄喉貂 Martes flavigula,0.042547936847378565,0.7180761115957053,False
+苍鹰 Accipiter gentilis,黄鼬 Mustela sibirica,0.038604571824109146,0.7432363132296949,False
+虎斑地鸫 Zoothera aurea,豹猫 Prionailurus bengalensis,0.04052204492365539,0.7309658998085937,False
+虎斑地鸫 Zoothera aurea,野猪 Sus scrofa,0.15772007446912795,0.18079891918445123,False
+虎斑地鸫 Zoothera aurea,长尾林鸮 Strix uralensis,0.07715167498104596,0.5126907602619235,False
+虎斑地鸫 Zoothera aurea,马鹿 Cervus elaphus,0.1382147381437882,0.24087965092864738,False
+虎斑地鸫 Zoothera aurea,黄喉貂 Martes flavigula,0.1203858530857692,0.30701389803382517,False
+虎斑地鸫 Zoothera aurea,黄鼬 Mustela sibirica,0.06415002990995841,0.58621368107314,False
+虎斑地鸫 Zoothera aurea,黑熊 Ursus thibetanus,0.05292561240249632,0.6533676621999002,False
+豹猫 Prionailurus bengalensis,貉 Nyctereutes procyonoides,0.43104000429527944,0.00025469151105728116,True
+豹猫 Prionailurus bengalensis,野猪 Sus scrofa,0.13421393880300578,0.2547686286364492,False
+豹猫 Prionailurus bengalensis,长尾林鸮 Strix uralensis,-0.009379030918551612,0.9365683465941906,False
+豹猫 Prionailurus bengalensis,马鹿 Cervus elaphus,0.07921051985560162,0.5015050460433695,False
+豹猫 Prionailurus bengalensis,黄喉貂 Martes flavigula,0.03554176118466,0.7629708501775656,False
+豹猫 Prionailurus bengalensis,黄鼬 Mustela sibirica,0.0,1.0,False
+豹猫 Prionailurus bengalensis,黑熊 Ursus thibetanus,-0.08364150769205121,0.47787671583081004,False
+貉 Nyctereutes procyonoides,野猪 Sus scrofa,0.08964786322061984,0.4468438358752974,False
+貉 Nyctereutes procyonoides,马鹿 Cervus elaphus,-0.06252818913170463,0.5957172893162241,False
+貉 Nyctereutes procyonoides,黄喉貂 Martes flavigula,0.02374003008718031,0.8403538877615492,False
+貉 Nyctereutes procyonoides,黄鼬 Mustela sibirica,-0.046880723093849545,0.690780472780112,False
+貉 Nyctereutes procyonoides,黑熊 Ursus thibetanus,0.09884362331937355,0.40162872235385483,False
+野猪 Sus scrofa,长尾林鸮 Strix uralensis,0.014602041508114227,0.9013925282534971,False
+野猪 Sus scrofa,马鹿 Cervus elaphus,0.2634593716954689,0.02538277767460706,True
+野猪 Sus scrofa,黄喉貂 Martes flavigula,0.047196917631239434,0.6888036549364563,False
+野猪 Sus scrofa,黄鼬 Mustela sibirica,0.16390750941244592,0.16428567766169644,False
+野猪 Sus scrofa,黑熊 Ursus thibetanus,0.17529606211836435,0.13689958628272503,False
+长尾林鸮 Strix uralensis,马鹿 Cervus elaphus,0.02742042485535409,0.8160176506900918,False
+长尾林鸮 Strix uralensis,黄喉貂 Martes flavigula,-0.06368893858004032,0.5889084080633791,False
+长尾林鸮 Strix uralensis,黄鼬 Mustela sibirica,0.0,1.0,False
+长尾林鸮 Strix uralensis,黑熊 Ursus thibetanus,-0.12249898938750632,0.29860089610270746,False
+马鹿 Cervus elaphus,黄喉貂 Martes flavigula,-0.13141492602245713,0.2648107319507017,False
+马鹿 Cervus elaphus,黄鼬 Mustela sibirica,0.10259783520851541,0.38398816339805664,False
+马鹿 Cervus elaphus,黑熊 Ursus thibetanus,0.1034564094673936,0.3800214657740536,False
+黄喉貂 Martes flavigula,黄鼬 Mustela sibirica,-0.0893633203101749,0.4482876168658806,False
+黄喉貂 Martes flavigula,黑熊 Ursus thibetanus,-0.08464986213171422,0.47258595489537425,False
+黄鼬 Mustela sibirica,黑熊 Ursus thibetanus,0.03055661656760704,0.7954180604830265,False
