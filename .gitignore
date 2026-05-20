@@ -1,0 +1,62 @@
+# ========== 原始数据（不提交） ==========
+data/raw_images/*
+data/metadata/*.csv
+!data/metadata/.gitkeep
+
+# ========== 图像文件 ==========
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.raw
+*.CR2
+*.nef
+*.arw
+*.dng
+*.tif
+*.tiff
+*.mp4
+*.avi
+
+# ========== Python ==========
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ========== 环境/配置 ==========
+.env
+.venv/
+venv/
+env/
+
+# ========== 输出（可选保留小文件） ==========
+outputs/figures/*
+!outputs/figures/.gitkeep
+
+# ========== 压缩包 ==========
+*.zip
+*.tar.gz
+*.7z
+*.rar
+
+# ========== 系统 ==========
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ========== IDE ==========
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
